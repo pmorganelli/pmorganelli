@@ -4,7 +4,7 @@ Hey! 👋
 
 🇮🇪 From Jan-May 2026, I studied abroad at Trinity College Dublin in Dublin, Ireland!
 
-🍕 I am passionate about making pizza from scratch [look here](https://www.instagram.com/peterspizzeria_/), cooking, building community, going to the gym, and building cool projects with friends who enjoy doing the same.
+🍕 I am passionate about [making pizza from scratch](https://www.instagram.com/peterspizzeria_/), cooking, building community, going to the gym, and building cool projects with friends who enjoy doing the same.
 
 📲 I'm also a Data Structures TF, Founder of Tufts' Leadership Training Institute, and a big Rubik's Cube nerd. I enjoy solving problems, working with people, debugging, pair programming, and good vibes. Please reach out or check out my [portfolio website](https://petermorganelli.dev) for more info about me, or connect with me on [LinkedIn](https://www.linkedin.com/in/peter-morganelli-102860258/)!
 

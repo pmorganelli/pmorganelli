@@ -1,6 +1,6 @@
 Hey! 👋
 
-📌 I’m Peter Morganelli, a computer science major at Tufts University. This summer, I'm working at MITRE as a Software Engineer Intern. I've previously worked at a small startup, been a software developer at Tufts's JumboCode for a few years, and worked alongside various [Tufts staff]([url](https://github.com/pmorganelli/snowplow-race)) and students to build cool projects.
+📌 I’m Peter Morganelli, a computer science major at Tufts University. This summer, I'm working at MITRE as a Software Engineer Intern. I've previously worked at a small startup, been a software developer at Tufts's JumboCode for a few years, and worked alongside various [Tufts staff](https://github.com/pmorganelli/snowplow-race) and students to build cool projects.
 
 🇮🇪 From Jan-May 2026, I studied abroad at Trinity College Dublin in Dublin, Ireland!
 
